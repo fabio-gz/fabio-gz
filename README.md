@@ -1,15 +1,19 @@
-<h1 align="center">Hello!  I'm Fabio</h1>  
-<h4 align="center">A software developer and industrial engineer with a passion for data📊 and learning new things.</h3>  
+<h1> Hello there, I'm Fabio <img align='right' src="https://media.giphy.com/media/S8TzUKzRPjepzJx37U/giphy.gif" width="230"> </h1>
 
+<p>I'm an industrial engineer and developer with a passion for data based in <strong>Colombia</strong>. </p>
+<p>I'm always commited to keep learning. Currently looking to dive-in more in the world of data</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-gz)](https://github.com/anuraghazra/github-readme-stats)
+<h2>🛠️Languages & Tools</h2>
 
-<h3 align="left">Connect with me:</h3>  
-<p align="left">  
-<a href="https://twitter.com/fabio_gz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fabiogz" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/fabiogomezs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fabiogz" height="30" width="40" /></a> 
-</p>  
-  
-<h3 align="left">Languages and Tools:</h3>  
-<p align="left"> 
-<a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://spark.apache.org" target="blank"> <img height="30" width="40" src="https://raw.githubusercontent.com/github/explore/6f5025830918df26b37d23b3ffffbc35725fe15f/topics/spark/spark.png" /> </a>
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=yellow)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=009dff)&nbsp;
+![SQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=Microsoft%20SQL%20Server)&nbsp;
+![Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=Apache%20Spark)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)&nbsp;
+![Deepnote](https://img.shields.io/badge/-Deepnote-05122A?style=flat&logo=Deepnote)&nbsp;
+
+<h2>👩‍💻Contact me</h2>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/fabiogomezs/)
+[![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)](mailto:fabiogomez.silva@gmail.com)
